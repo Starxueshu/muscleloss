@@ -3,7 +3,6 @@
 import joblib as jl
 import pandas as pd
 import streamlit as st
-import shap
 
 st.header("An artificial intelligence tool to predict postoperative muscle loss among advanced cancer patients treated with surgery for metastatic spinal disease: an establishment and validation study")
 st.sidebar.title("Parameters Selection Panel")
